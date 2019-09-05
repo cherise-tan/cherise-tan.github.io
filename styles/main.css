@@ -46,3 +46,9 @@ h1 {
     background-color: white;
     margin: 4rem;
 }
+
+/* FOOTER */
+.footer {
+    background-color: #5D6B78;
+    padding: 4rem;
+}
