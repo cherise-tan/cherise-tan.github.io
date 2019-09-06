@@ -2,6 +2,20 @@ html {
     scroll-behavior: smooth;
 }
 
+.padding-0 {
+    padding: 0.25rem;
+}
+
+.padding-1 {
+    padding: 0.5rem;
+}
+
+.padding-2 {
+    padding: 1rem;
+}
+
+
+
 /* TITLE */
 .heading {
     background-image: url(../images/code.jpg);
@@ -88,6 +102,14 @@ html {
     background-color: white;
     margin: 5rem 5rem;
     text-align: center;
+}
+
+#blog-posts a {
+    color: #5D6B78;
+}
+
+#blog-posts a:hover {
+    color: #3273dc;
 }
 
 /* FOOTER */
