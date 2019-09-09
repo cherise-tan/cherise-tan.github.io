@@ -176,4 +176,9 @@ html {
     #about h1 {
         font-size: 1.5rem;
     }
+    #blog-posts {
+        background-color: white;
+        margin: 3rem 3rem;
+        text-align: center;
+    }
 }
