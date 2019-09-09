@@ -14,6 +14,11 @@ html {
     padding: 1rem;
 }
 
+.margin-bottom {
+    margin-bottom: 2rem;
+}
+
+
 /* TITLE */
 .heading {
     background-image: url(../images/code.jpg);
@@ -109,6 +114,11 @@ html {
 #blog-posts a:hover {
     color: #3273dc;
 }
+
+.blog-posts-body {
+    margin-top: 2rem;
+}
+
 
 .tech-blog-2-img {
     width: 10rem;
