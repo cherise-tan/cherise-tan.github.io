@@ -17,6 +17,10 @@ html {
     padding-top: 1rem;
 }
 
+.padding-bottom-1 {
+    padding-bottom: 0.5rem;
+}
+
 .padding-bottom-2 {
     padding-bottom: 1rem;
 }
@@ -125,10 +129,14 @@ html {
     margin-top: 2rem;
 }
 
-
 .tech-blog-2-img {
     width: 10rem;
     height: 4rem;
+}
+
+.tech-blog-4-img {
+    width: 22rem;
+    height: 10rem;
 }
 
 /* FOOTER */
